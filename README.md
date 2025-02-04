@@ -19,8 +19,5 @@ Remove a task:
 python todo.py remove 1
 ```
 
-## Requirements
-Python 3.x
-
 ## License
 You are free to use this code for personal and educational purposes. Commercial use and redistribution are not allowed.
