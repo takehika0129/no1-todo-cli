@@ -1,4 +1,4 @@
-# Todo CLI
+# Create a Simple CLI ToDo Management Tool 
 
 A simple command-line ToDo list manager using Python.
 
